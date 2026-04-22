@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nameKey": "carrots",
+    "price": 4.5,
+    "image": "🥕",
+    "category": "vegetable",
+    "en": "Organic Carrots",
+    "am": "ኦርጋኒክ ካሮት"
+  },
+  {
+    "id": 2,
+    "nameKey": "broccoli",
+    "price": 3.2,
+    "image": "🥦",
+    "category": "vegetable",
+    "en": "Fresh Broccoli",
+    "am": "ትኩስ ብሮኮሊ"
+  },
+  {
+    "id": 3,
+    "nameKey": "apple",
+    "price": 5.0,
+    "image": "🍎",
+    "category": "fruits",
+    "en": "Red Apple",
+    "am": "ቀይ ፖም"
+  },
+  {
+    "id": 4,
+    "nameKey": "teff",
+    "price": 12.0,
+    "image": "🌾",
+    "category": "serials",
+    "en": "Pure Teff",
+    "am": "ንጹህ ጤፍ"
+  },
+  {
+    "id": 5,
+    "nameKey": "oil",
+    "price": 8.5,
+    "image": "🫙",
+    "category": "packedfoods",
+    "en": "Cooking Oil",
+    "am": "የምግብ ዘይት"
+  },
+  {
+    "id": 6,
+    "nameKey": "spinach",
+    "price": 1.5,
+    "image": "🥬",
+    "category": "leafyleaves",
+    "en": "Leafy Spinach",
+    "am": "ስፒናች"
+  },
+  {
+    "id": 7,
+    "nameKey": "berbere",
+    "price": 6.0,
+    "image": "🌶️",
+    "category": "spice",
+    "en": "Berbere Spice",
+    "am": "በርበሬ"
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "en": {
+    "shopTitle": "Suk Bederete",
+    "heroTitle": "Fresh ingredients for your",
+    "heroTitleAccent": "perfect meal",
+    "heroSubtitle": "Quality cooking materials delivered to your door.",
+    "cart": "Cart",
+    "emptyCart": "Your cart is empty",
+    "totalAmount": "Total Amount",
+    "confirmOrder": "Confirm Order",
+    "orderSuccess": "Order Successful!",
+    "orderProcessing": "Processing your order...",
+    "orderThankYou": "Thank you for shopping with Suk Bederete!",
+    "call": "Call",
+
+    "messageOrder": "Message Order",
+    "currentCart": "Current Cart",
+    "categories": {
+      "vegetable": "Vegetable",
+      "fruits": "Fruits",
+      "serials": "Serials",
+      "packedfoods": "Packed Foods",
+      "leafyleaves": "Leafy Leaves",
+      "spice": "Spice"
+    },
+    "admin": {
+      "dashboard": "Dashboard",
+      "products": "Products",
+      "customers": "Customers",
+      "settings": "Settings",
+      "inventory": "Inventory",
+      "manageStock": "Manage your product stock and visibility",
+      "addProduct": "Add Product",
+      "product": "Product",
+      "price": "Price",
+      "stock": "Stock",
+      "status": "Status",
+      "actions": "Actions",
+      "inStock": "in stock",
+      "outOfStock": "out of stock",
+      "logout": "Logout",
+      "search": "Search products..."
+    }
+  },
+  "am": {
+    "shopTitle": "ሱቅ በደረቴ",
+    "heroTitle": "ትኩስ ግብአቶች ለ",
+    "heroTitleAccent": "ምርጥ ምግብዎ",
+    "heroSubtitle": "ጥራት ያላቸው የምግብ ማብሰያ ቁሳቁሶች እስከ ደጃፍዎ።",
+    "cart": "ጋሪ",
+    "emptyCart": "ጋሪዎ ባዶ ነው",
+    "totalAmount": "ጠቅላላ ዋጋ",
+    "confirmOrder": "ትዕዛዝ አረጋግጥ",
+    "orderSuccess": "ትዕዛዝዎ በተሳካ ሁኔታ ተልኳል!",
+    "orderProcessing": "ትዕዛዝዎን እያዘጋጀን ነው...",
+    "orderThankYou": "ሱቅ በደረቴን ስለመረጡ እናመሰግናለን!",
+    "call": "ደውል",
+
+    "messageOrder": "በትዕዛዝ መልዕክት ላክ",
+    "currentCart": "የአሁኑ ጋሪ",
+    "categories": {
+      "vegetable": "አትክልት",
+      "fruits": "ፍራፍሬ",
+      "serials": "እህሎች",
+      "packedfoods": "የታሸጉ ምግቦች",
+      "leafyleaves": "ቅጠላቅጠሎች",
+      "spice": "ቅመማ ቅመም"
+    },
+    "admin": {
+      "dashboard": "ዳሽቦርድ",
+      "products": "ምርቶች",
+      "customers": "ደንበኞች",
+      "settings": "ቅንብሮች",
+      "inventory": "ክምችት",
+      "manageStock": "የምርት ክምችትዎን እና ተገኝነቱን ያስተዳድሩ",
+      "addProduct": "ምርት ጨምር",
+      "product": "ምርት",
+      "price": "ዋጋ",
+      "stock": "ክምችት",
+      "status": "ሁኔታ",
+      "actions": "ድርጊቶች",
+      "inStock": "በክምችት ላይ",
+      "outOfStock": "ተረክቧል",
+      "logout": "ውጣ",
+      "search": "ምርቶችን ይፈልጉ..."
+    }
+  }
+}
